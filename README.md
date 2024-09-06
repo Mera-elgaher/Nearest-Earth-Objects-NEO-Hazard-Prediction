@@ -3,6 +3,15 @@
 I worked on predicting whether a Nearest Earth Object (NEO) is hazardous using a dataset from NASA. This prediction is critical for planetary defense and identifying potential threats to Earth. I used machine learning models to achieve this goal, focusing on data preprocessing, handling imbalanced classes, and evaluating the model's performance.
 
 Dataset : NASA Nearest Earth Objects 1910-2024
+--------------------------------------------------
+**Table of Contents**
+Project Overview
+Data Importing and Cleaning
+Exploratory Data Analysis (EDA)
+Data Preprocessing
+Model Training and Evaluation
+Findings and Insights
+Conclusion
 ------------------------------------------------------------------
 **1-Data Importing and Cleaning**
 I started by importing the dataset and cleaning it. This included:
