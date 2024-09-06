@@ -1,5 +1,6 @@
 **Nearest Earth Objects (NEO) Hazard Prediction**
 **Project Overview**
+
 I worked on predicting whether a Nearest Earth Object (NEO) is hazardous using a dataset from NASA. This prediction is critical for planetary defense and identifying potential threats to Earth. I used machine learning models to achieve this goal, focusing on data preprocessing, handling imbalanced classes, and evaluating the model's performance.
 
 Dataset : NASA Nearest Earth Objects 1910-2024
